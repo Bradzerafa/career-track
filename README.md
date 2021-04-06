@@ -5,7 +5,7 @@ A personal data tracker to aggregate all your data, visually allowing you to kee
 ## MVP
 
 1. Website homepage [IN PROGRESS]
-2. Finances and career progression. (Income and expenses, savings goal and predicted timeline, Previous jobs and their salaries.)
+2. Finances and career progression. (Current Income, Expenses and Job title, savings goal and predicted timeline, List of previous jobs and their salaries.)
 3. User profile
 4. Authentication
 
