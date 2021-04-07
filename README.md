@@ -1,6 +1,6 @@
-# PersonalTrack
+# CareerTrack
 
-A personal data tracker to aggregate all your data, visually allowing you to keep up to date in one place with how everything is going personally.
+A personal career tracker to track previous career earnings, current income VS expenses, career/financial goals. 
 
 ## MVP
 
@@ -14,20 +14,18 @@ A personal data tracker to aggregate all your data, visually allowing you to kee
     1. Track your daily habits and data.
         1. Financial data (Track income / expenses (Expected upcoming payment date based on days 28, 29, 30), future projections?)
         2. Track your savings and Purchase/Investment goals next to each other.
-        3. Daily habits
-        4. Health data (Weight, Water, Sleep, Activity) (Weekly averages for data)
-        5. Journal
-    2. Custom leaderboards against friends (Data Depenedent).
+        3. Journal
+
 
 ## Technologies:
 
 ### Front-End:
 
 - HTML
-- CSS (ReactBoostrap)
+- CSS (TailwindCSS)
 - Javascript (ReactJS)
 
-### Backend:
+### Backend (Later Development):
 
 - Node (ExpressJS)
 - MongoDB (Mongoose)
@@ -42,10 +40,10 @@ A personal data tracker to aggregate all your data, visually allowing you to kee
 - Axios
 - React-Router-DOM
 
-### Web Hosting:
+### Web Hosting (upon project completion):
 
-- Heroku or Netlify (TBD)
+- Netlify
 
 ## Misc:
 
-- Auth0 (Authentication)
+- Auth0 (User Authentication)
