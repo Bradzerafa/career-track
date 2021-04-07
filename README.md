@@ -1,5 +1,4 @@
-# CareerTrack
-
+# Career-Track
 A personal career tracker to track previous career earnings, current income VS expenses, career/financial goals. 
 
 ## MVP
@@ -30,13 +29,9 @@ A personal career tracker to track previous career earnings, current income VS e
 - Node (ExpressJS)
 - MongoDB (Mongoose)
 
-### APIs
-
+### Dependencies: 
 - FakerJS
 - ChartJS
-
-
-### Dependencies: 
 - Axios
 - React-Router-DOM
 
