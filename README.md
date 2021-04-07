@@ -1,45 +1,44 @@
-# PersonalTrack
-
-A personal data tracker to aggregate all your data, visually allowing you to keep up to date in on eplace with how everything is going personally.
+# Career-Track
+A personal career tracker to track previous career earnings, current income VS expenses, career/financial goals. 
 
 ## MVP
 
-1. Website homepage ####[IN PROGRESS]
-2. Finances and career progression. (Income and expenses, savings goal and predicted timeline, Previous jobs and their salaries.)
-3. User profile
+1. Website homepage
+2. User profile (Name, Profile Photo, Job title, Current Salary and Current Goal)[In Progress]
+3. Finances and career progression. (Current Income, Expenses, Savings goal. Previous Jobs, Salaries and Notes on workplace).
 4. Authentication
 
 ## Proposed Features:
 
     1. Track your daily habits and data.
-      1. Daily habits
-      2. Health data (Weight, Water, Sleep, Activity) (Weekly averages for data)
-      3. Financial data (Track income / expenses, future projections?)
-      4. Journal
-    2. Custom leaderboards against friends (Data Depenedent).
+        1. Financial data (Track income / expenses (Expected upcoming payment date based on days 28, 29, 30), future projections?)
+        2. Track your savings and Purchase/Investment goals next to each other.
+        3. Journal
+
 
 ## Technologies:
 
 ### Front-End:
 
 - HTML
-- CSS (ReactBoostrap)
+- CSS (TailwindCSS)
 - Javascript (ReactJS)
 
-### Backend:
+### Backend (Later Development):
 
 - Node (ExpressJS)
 - MongoDB (Mongoose)
 
-### APIs
-
+### Dependencies: 
 - FakerJS
 - ChartJS
+- Axios
+- React-Router-DOM
 
-### Web Hosting:
+### Web Hosting (upon project completion):
 
-- Heroku or Netlify (TBD)
+- Netlify
 
 ## Misc:
 
-- Auth0 (Authentication)
+- Auth0 (User Authentication)
