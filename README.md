@@ -5,7 +5,7 @@ A personal career tracker to track previous career earnings, current income VS e
 
 1. Website homepage
 2. User profile (Name, Profile Photo, Job title, Current Salary and Current Goal)[In Progress]
-3. Finances and career progression. (Current Income, Expenses, Savings goal. Previous Jobs, Salaries and Notes on workplace).
+3. Finances and career progression. (Current Income, Expenses, Savings goal. Previous Jobs, Salaries and Notes on workplace). [In Progress]
 4. Authentication
 
 ## Proposed Features:
