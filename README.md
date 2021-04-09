@@ -1,5 +1,6 @@
 # Career-Track
-A personal career tracker to track previous career earnings, current income VS expenses, career/financial goals. 
+
+A personal career tracker to track previous career earnings, current income VS expenses, career/financial goals.
 
 ## MVP
 
@@ -13,8 +14,8 @@ A personal career tracker to track previous career earnings, current income VS e
     1. Track your daily habits and data.
         1. Financial data (Track income / expenses (Expected upcoming payment date based on days 28, 29, 30), future projections?)
         2. Track your savings and Purchase/Investment goals next to each other.
-        3. Journal
-
+        3. Profile edit restrictions: Country checker and make sure formatting is correct.
+        4. Journal
 
 ## Technologies:
 
@@ -29,7 +30,8 @@ A personal career tracker to track previous career earnings, current income VS e
 - Node (ExpressJS)
 - MongoDB (Mongoose)
 
-### Dependencies: 
+### Dependencies:
+
 - FakerJS
 - ChartJS
 - Axios
