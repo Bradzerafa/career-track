@@ -2,18 +2,16 @@
 A personal career tracker to track previous career earnings, current income VS expenses, career/financial goals. 
 
 ## MVP
+Project Section Breakdown: https://trello.com/b/1lF7bJqZ/career-track
+1. Website homepage.
+2. User profile.
+3. Finances and career progression.
+4. Authentication.
 
-1. Website homepage
-2. User profile (Name, Profile Photo, Job title, Current Salary and Current Goal)[In Progress]
-3. Finances and career progression. (Current Income, Expenses, Savings goal. Previous Jobs, Salaries and Notes on workplace). [In Progress]
-4. Authentication
-
-## Proposed Features:
+## Proposed Future Features:
 
     1. Track your daily habits and data.
-        1. Financial data (Track income / expenses (Expected upcoming payment date based on days 28, 29, 30), future projections?)
-        2. Track your savings and Purchase/Investment goals next to each other.
-        3. Journal
+    2. Journal: Allowing you to share how you feel about previous/current work places for later reference, possibly who you met there for later networking / keeping in contact. 
 
 
 ## Technologies:
@@ -39,6 +37,6 @@ A personal career tracker to track previous career earnings, current income VS e
 
 - Netlify
 
-## Misc:
+### Misc:
 
 - Auth0 (User Authentication)
