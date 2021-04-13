@@ -1,5 +1,5 @@
 import React from "react";
-import SideNav from "./SideNav";
+import NavRoute from "./NavRoute";
 import faker from "faker";
 
 class WebApp extends React.Component {
@@ -27,7 +27,7 @@ class WebApp extends React.Component {
     return (
       <div>
         <div>
-          <SideNav
+          <NavRoute
             name={this.state.name}
             country={this.state.country}
             profImg={this.state.profImg}
