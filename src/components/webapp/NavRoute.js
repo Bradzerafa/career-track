@@ -21,7 +21,7 @@ class NavRoute extends React.Component {
             <Route path="/contact" exact component={Contact} />
             <Route path="/auth" exact component={AuthForm} />
             <Route
-              path="/userProfile"
+              path="/app/userProfile"
               exact
               component={() => (
                 <UserProfile
@@ -35,7 +35,7 @@ class NavRoute extends React.Component {
               )}
             />
             <Route
-              path="/userFinance"
+              path="/app/userFinance"
               exact
               component={() => (
                 <UserFinance
